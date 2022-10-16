@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleLocalSettings">
+    <option name="projectSyncType">
+      <map>
+        <entry key="$USER_HOME$/Downloads/demo" value="PREVIEW" />
+        <entry key="$USER_HOME$/Downloads/learning" value="PREVIEW" />
+        <entry key="$USER_HOME$/Downloads/metrics" value="PREVIEW" />
+        <entry key="$USER_HOME$/projects/budget-server" value="PREVIEW" />
+        <entry key="$USER_HOME$/projects/home" value="PREVIEW" />
+        <entry key="$USER_HOME$/projects/learning-spring/learn" value="PREVIEW" />
+        <entry key="$USER_HOME$/projects/rest" value="PREVIEW" />
+        <entry key="$USER_HOME$/projects/sagan" value="PREVIEW" />
+        <entry key="$USER_HOME$/projects/spring-rest" value="PREVIEW" />
+        <entry key="$USER_HOME$/work/adaptavista" value="PREVIEW" />
+        <entry key="$USER_HOME$/work/portal_stat" value="PREVIEW" />
+        <entry key="$USER_HOME$/work/sbbol" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+</project>
